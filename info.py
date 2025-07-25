@@ -176,9 +176,9 @@ else:
     ON_HEROKU = False
 HAS_SSL = bool(getenv('HAS_SSL', True))
 if HAS_SSL:
-    URL = "https://aggressive-kristal-chayadevi-2be51b42.koyeb.app/".format(FQDN)
+    URL = "https://youngest-sharline-chayadevi-f930aeff.koyeb.app/".format(FQDN)
 else:
-    URL = "https://aggressive-kristal-chayadevi-2be51b42.koyeb.app/".format(FQDN)
+    URL = "https://youngest-sharline-chayadevi-f930aeff.koyeb.app/".format(FQDN)
 
 # ============================
 # Reactions Configuration
